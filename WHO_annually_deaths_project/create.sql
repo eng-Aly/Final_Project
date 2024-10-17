@@ -48,7 +48,7 @@ CREATE EXTERNAL TABLE AnnuallyDeaths (
 	[Terrorism] bigint,
 	[Road_injuries] bigint,
 	[Chronic_respiratory_diseases] bigint,
-	[Deaths - Cirrhosis_and_other_chronic_liver_diseases] bigint,
+	[Cirrhosis_and_other_chronic_liver_diseases] bigint,
 	[Digestive_diseases] bigint,
 	[Fire_heat_and_hot_substances] bigint,
 	[Acute_hepatitis] bigint
