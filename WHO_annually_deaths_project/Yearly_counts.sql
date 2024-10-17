@@ -32,4 +32,5 @@ Cirrhosis_and_other_chronic_liver_diseases,
 Digestive_diseases, 
 Fire_heat_and_hot_substances, 
 Acute_hepatitis
+From AnnuallyDeaths
 
